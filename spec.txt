@@ -1,0 +1,6 @@
+Welcome to Shop Easy
+Cart Totals are shown in cents
+Discounts apply before Taxes
+Shipping cost is a flat \$5.
+Promo codes are case-sensitive.
+A thank you message for shopping is included.
