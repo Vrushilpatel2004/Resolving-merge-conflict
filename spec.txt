@@ -1,5 +1,5 @@
 Welcome to Shop Easy
-Cart Totals are shown in cents
+Cart Totals are shown in cents and displayed as $X.XX
 Discounts apply before Taxes
 Shipping cost is a flat \$5.
 Promo codes are case-sensitive.
